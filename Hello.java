@@ -5,6 +5,7 @@ public class Hello{
         {
             System.out.println("Hello for "+ i);
         }
+        System.out.println("After Loop");
     }
 
 }
